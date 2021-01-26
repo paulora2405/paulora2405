@@ -1,1 +1,1 @@
-![pixelart](source.gif)
+![pixelart](source-resized.gif)
