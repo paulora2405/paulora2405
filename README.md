@@ -25,7 +25,7 @@
 </a>
 
 
-I am a Computer Science graduate, Programmer, Tech Enthusiast, interested in InfoSec, Cybersecurity, Data Science, Distributed Systems, Computer Networking, Low-Level programming.
+I am a Computer Science Bachelor, Programmer, Tech Enthusiast, interested in InfoSec, Cybersecurity, Data Science, Distributed Systems, Computer Networking, Low-Level programming.
 
 I've done academic research projects on diverse topics such as Data Center's Job Scheduling algorithms with Deep Learning and Multi-Objective decision heuristics to select investments portfolios. I have also conducted multiple activities in a social project for the Promotion of Social Inclusion through Science and access to Technology in Brazil.
 
