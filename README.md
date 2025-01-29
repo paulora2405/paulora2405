@@ -1,11 +1,5 @@
-<p align="center">
-  <a href="https://github.com/paulora2405" target="_self">
-    <img src="source-resized.gif" width="500">
-  </a>
-</p>
-
 <h1 align="center">
-  Hi, I'm Paulo Albuquerque!
+  Hi, I'm Paulo!
   <a href="https://github.com/paulora2405" target="_self">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </a>
@@ -20,9 +14,11 @@
 <a href="https://github.com/paulora2405">
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<!---
 <a href="https://drive.google.com/file/d/1-TJ80MbRO7xW2voD4oAMh9YTxMA_SkoJ/view?usp=sharing">
   <img src="https://img.shields.io/badge/resume-%23521961.svg?style=plastic&logo=readdotcv&logoColor=white" alt="Resume"/>
 </a>
+-->
 
 
 I am a Computer Science Bachelor, Programmer, Tech Enthusiast, interested in InfoSec, Cybersecurity, Data Science, Distributed Systems, Computer Networking, Low-Level programming.
