@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/paulora/">
   <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/paulora2405">
-  <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <!---
 <a href="https://drive.google.com/file/d/1-TJ80MbRO7xW2voD4oAMh9YTxMA_SkoJ/view?usp=sharing">
   <img src="https://img.shields.io/badge/resume-%23521961.svg?style=plastic&logo=readdotcv&logoColor=white" alt="Resume"/>
