@@ -18,9 +18,16 @@
 -->
 
 
-I am a Computer Science Bachelor, Programmer, Tech Enthusiast, interested in InfoSec, Cybersecurity, Data Science, Distributed Systems, Computer Networking, Low-Level programming.
+Cloud and software engineering professional with expertise in developing scalable and resilient engineering systems. Recently completed my Master's in Applied Computing focused on Cloud-Edge Continuum computing with published research. I specialize in backend development with Rust, Java, and Python, complemented by containerization and orchestration with Docker and Kubernetes.
 
-I've done academic research projects on diverse topics such as Data Center's Job Scheduling algorithms with Deep Learning and Multi-Objective decision heuristics to select investments portfolios. I have also conducted multiple activities in a social project for the Promotion of Social Inclusion through Science and access to Technology in Brazil.
+My professional journey combines practical industry experience at WEG S.A. with academic research in distributed systems and task scheduling. I'm passionate about building efficient, scalable solutions and have experience implementing critical infrastructure components including messaging services, audit systems, and archiving solutions.
 
-I currently live in Jaraguá do Sul, Brazil, speak fluent English, working at WEG as an Engineering Systems Software Developer. Working in modernizing legacy applications to cloud native and distributed concepts.
-I am also persuing a Master's Degree in Network Computer Systems at Universidade Do Estado de Santa Catarina.
+Previously served as a Programming Languages teaching assistant at UDESC and worked to promote social inclusion through technology at Fab Lab Joinville.
+
+Open to connecting with fellow developers, cloud engineers, and technology enthusiasts!
+
+Technical Skills
+- Languages: Rust, Java, Python, C/C++, JavaScript, SQL, Bash
+- Frameworks: Spring Boot, FastAPI, Actix-Web, Axum
+- Infrastructure: Kubernetes, Docker, GitLab CI/CD, Rancher
+- Databases: Redis, Oracle, PostgreSQL, SQLite, MinIO, RabbitMQ, Trino
