@@ -20,7 +20,7 @@
 
 Cloud and software engineering professional with expertise in developing scalable and resilient engineering systems. Recently completed my Master's in Applied Computing focused on Cloud-Edge Continuum computing with published research. I specialize in backend development with Rust, Java, and Python, complemented by containerization and orchestration with Docker and Kubernetes.
 
-My professional journey combines practical industry experience at WEG S.A. with academic research in distributed systems and task scheduling. I'm passionate about building efficient, scalable solutions and have experience implementing critical infrastructure components including messaging services, audit systems, and archiving solutions.
+My professional journey combines practical industry experience with academic research in distributed systems and task scheduling. I'm passionate about building efficient, scalable solutions and have experience implementing critical infrastructure components including messaging services, audit systems, and archiving solutions.
 
 Previously served as a Programming Languages teaching assistant at UDESC and worked to promote social inclusion through technology at Fab Lab Joinville.
 
